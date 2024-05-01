@@ -18,7 +18,6 @@ namespace Lesson_1
                 }
                 catch (Exception ex)
                 {
-                    n1 = 0;
                     Console.WriteLine(ex.Message);
 
                 }
