@@ -1,0 +1,15 @@
+D:\NewProjects\Lesson\Lesson 17\bin\Debug\net8.0\Lesson 17.exe
+D:\NewProjects\Lesson\Lesson 17\bin\Debug\net8.0\Lesson 17.deps.json
+D:\NewProjects\Lesson\Lesson 17\bin\Debug\net8.0\Lesson 17.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 17\bin\Debug\net8.0\Lesson 17.dll
+D:\NewProjects\Lesson\Lesson 17\bin\Debug\net8.0\Lesson 17.pdb
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.sourcelink.json
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.dll
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\refint\Lesson 17.dll
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.pdb
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\Lesson 17.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 17\obj\Debug\net8.0\ref\Lesson 17.dll

@@ -26,18 +26,20 @@ namespace Lesson_1
             var res = true;
             while (res)
             {
-                try
-                {
+                
                     Console.WriteLine("Please enter second number");
-                    n2 = int.Parse(Console.ReadLine());
-                    res = false;    
-                }
-                catch (Exception ex)
-                {
-                    n2 = 0;
-                    Console.WriteLine(ex.Message);
 
-                }
+                    var userResult = Console.ReadLine();
+
+                    var isTrueResult = int.TryParse(userResult, out int ress);
+
+                    if (isTrueResult)
+                    {
+                        n2 = ress;
+                        res = false;
+
+                    }
+                
             }
 
             
@@ -45,6 +47,8 @@ namespace Lesson_1
             int result = Sum(n1, n2);
 
             Console.WriteLine("Sum is " + result);
+
+            Console.ReadLine();
 
         }
 

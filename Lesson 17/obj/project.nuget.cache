@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8aCKtOLmH9EpCkIrAsb8y4hCen/BX820BkPNaPy8pix1f8fj29d6TjHP9lRipD9tkpw6O0c4SFZn1kfiUgreg==",
+  "success": true,
+  "projectFilePath": "D:\\NewProjects\\Lesson\\Lesson 17\\Lesson 17.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.0.100.21:8888/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

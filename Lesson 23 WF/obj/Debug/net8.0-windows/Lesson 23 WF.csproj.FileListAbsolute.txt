@@ -1,0 +1,18 @@
+D:\NewProjects\Lesson\Lesson 23 WF\bin\Debug\net8.0-windows\Lesson 23 WF.exe
+D:\NewProjects\Lesson\Lesson 23 WF\bin\Debug\net8.0-windows\Lesson 23 WF.deps.json
+D:\NewProjects\Lesson\Lesson 23 WF\bin\Debug\net8.0-windows\Lesson 23 WF.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 23 WF\bin\Debug\net8.0-windows\Lesson 23 WF.dll
+D:\NewProjects\Lesson\Lesson 23 WF\bin\Debug\net8.0-windows\Lesson 23 WF.pdb
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson_23_WF.Form1.resources
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.csproj.GenerateResource.cache
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.sourcelink.json
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.dll
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\refint\Lesson 23 WF.dll
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.pdb
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson 23 WF.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\ref\Lesson 23 WF.dll
+D:\NewProjects\Lesson\Lesson 23 WF\obj\Debug\net8.0-windows\Lesson_23_WF.Form2.resources

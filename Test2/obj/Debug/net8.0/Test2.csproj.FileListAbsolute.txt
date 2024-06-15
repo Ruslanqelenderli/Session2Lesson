@@ -1,0 +1,12 @@
+D:\NewProjects\Lesson\Test2\bin\Debug\net8.0\Test2.deps.json
+D:\NewProjects\Lesson\Test2\bin\Debug\net8.0\Test2.dll
+D:\NewProjects\Lesson\Test2\bin\Debug\net8.0\Test2.pdb
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.AssemblyInfo.cs
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.sourcelink.json
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.dll
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\refint\Test2.dll
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\Test2.pdb
+D:\NewProjects\Lesson\Test2\obj\Debug\net8.0\ref\Test2.dll

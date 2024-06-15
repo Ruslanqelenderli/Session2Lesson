@@ -1,0 +1,15 @@
+D:\NewProjects\Lesson\Lesson 4\bin\Debug\net8.0\Lesson 4.exe
+D:\NewProjects\Lesson\Lesson 4\bin\Debug\net8.0\Lesson 4.deps.json
+D:\NewProjects\Lesson\Lesson 4\bin\Debug\net8.0\Lesson 4.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 4\bin\Debug\net8.0\Lesson 4.dll
+D:\NewProjects\Lesson\Lesson 4\bin\Debug\net8.0\Lesson 4.pdb
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.sourcelink.json
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.dll
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\refint\Lesson 4.dll
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.pdb
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\Lesson 4.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 4\obj\Debug\net8.0\ref\Lesson 4.dll

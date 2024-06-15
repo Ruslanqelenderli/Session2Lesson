@@ -1,0 +1,18 @@
+D:\NewProjects\Lesson\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.exe
+D:\NewProjects\Lesson\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.deps.json
+D:\NewProjects\Lesson\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.dll
+D:\NewProjects\Lesson\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.pdb
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson_25.Form1.resources
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.csproj.GenerateResource.cache
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.sourcelink.json
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.dll
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\refint\Lesson 25.dll
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.pdb
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\ref\Lesson 25.dll
+D:\NewProjects\Lesson\Lesson 25\obj\Debug\net8.0-windows\Lesson_25.Properties.Resources.resources

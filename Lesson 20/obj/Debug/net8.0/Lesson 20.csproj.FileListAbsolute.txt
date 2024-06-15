@@ -1,0 +1,15 @@
+D:\NewProjects\Lesson\Lesson 20\bin\Debug\net8.0\Lesson 20.exe
+D:\NewProjects\Lesson\Lesson 20\bin\Debug\net8.0\Lesson 20.deps.json
+D:\NewProjects\Lesson\Lesson 20\bin\Debug\net8.0\Lesson 20.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 20\bin\Debug\net8.0\Lesson 20.dll
+D:\NewProjects\Lesson\Lesson 20\bin\Debug\net8.0\Lesson 20.pdb
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.sourcelink.json
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.dll
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\refint\Lesson 20.dll
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.pdb
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\Lesson 20.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 20\obj\Debug\net8.0\ref\Lesson 20.dll

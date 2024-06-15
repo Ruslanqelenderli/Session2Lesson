@@ -1,0 +1,26 @@
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\Lesson 31.exe
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\Lesson 31.deps.json
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\Lesson 31.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\Lesson 31.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\Lesson 31.pdb
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson_31.Form1.resources
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.csproj.GenerateResource.cache
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.sourcelink.json
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.dll
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\refint\Lesson 31.dll
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.pdb
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\ref\Lesson 31.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewProjects\Lesson\Lesson 31\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.csproj.AssemblyReference.cache
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson 31.csproj.CopyComplete
+D:\NewProjects\Lesson\Lesson 31\obj\Debug\net8.0-windows\Lesson_31.UpdateForm.resources

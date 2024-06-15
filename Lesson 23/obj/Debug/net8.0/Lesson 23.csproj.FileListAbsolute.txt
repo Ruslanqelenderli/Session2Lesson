@@ -1,0 +1,15 @@
+D:\NewProjects\Lesson\Lesson 23\bin\Debug\net8.0\Lesson 23.exe
+D:\NewProjects\Lesson\Lesson 23\bin\Debug\net8.0\Lesson 23.deps.json
+D:\NewProjects\Lesson\Lesson 23\bin\Debug\net8.0\Lesson 23.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 23\bin\Debug\net8.0\Lesson 23.dll
+D:\NewProjects\Lesson\Lesson 23\bin\Debug\net8.0\Lesson 23.pdb
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.sourcelink.json
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.dll
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\refint\Lesson 23.dll
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.pdb
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\Lesson 23.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 23\obj\Debug\net8.0\ref\Lesson 23.dll

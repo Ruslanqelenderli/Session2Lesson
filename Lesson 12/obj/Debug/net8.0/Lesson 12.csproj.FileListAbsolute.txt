@@ -1,0 +1,19 @@
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.csproj.AssemblyReference.cache
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.AssemblyInfo.cs
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.sourcelink.json
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Lesson 12.exe
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Lesson 12.deps.json
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Lesson 12.runtimeconfig.json
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Lesson 12.dll
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Lesson 12.pdb
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Test2.dll
+D:\NewProjects\Lesson\Lesson 12\bin\Debug\net8.0\Test2.pdb
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.csproj.CopyComplete
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.dll
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\refint\Lesson 12.dll
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.pdb
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\Lesson 12.genruntimeconfig.cache
+D:\NewProjects\Lesson\Lesson 12\obj\Debug\net8.0\ref\Lesson 12.dll
